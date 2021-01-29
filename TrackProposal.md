@@ -52,7 +52,7 @@ Learn how to do object detection on real-time video streams using OpenCV's deep 
 - Create a script that can detect faces in a video.
 - Create a script that can detect objects in a video.
 
-### Tracking objects
+### Tracking Objects
 
 Take another step on the journey of using deep learning to gain more context from video toward more context from video by learning how to track objects within a video using methods like optical flow, MeanShift, and CamShift tracking.
 
